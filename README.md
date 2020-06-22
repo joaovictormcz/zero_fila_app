@@ -1,6 +1,6 @@
 # zerofilaapp
 
-Gerenciamento de filas em tempo real.
+Gerenciamento online de filas.
 
 ## Getting Started
 
